@@ -1,5 +1,5 @@
-USER-AGENT,YouTubeMusic*
-USER-AGENT,*com.google.ios.youtubemusic*
 DOMAIN-SUFFIX,music.youtube.com
 DOMAIN-SUFFIX,ytimg.com
+USER-AGENT,YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
 
