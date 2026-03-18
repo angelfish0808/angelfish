@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,music.youtube.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,googlevideo
 USER-AGENT,YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
 
