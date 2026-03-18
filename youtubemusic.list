@@ -1,7 +1,5 @@
-# YouTube Music 专属 UA
 USER-AGENT,YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
-
-# YouTube Music 核心域名
-DOMAIN,music.youtube.com
 DOMAIN-SUFFIX,music.youtube.com
+DOMAIN-SUFFIX,ytimg.com
+
